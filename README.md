@@ -2,7 +2,7 @@
 
 A **React-based User Directory Dashboard** that displays users fetched from an API. Includes search, sorting, and detailed user pages.
 
-🔗 **Live Demo:** [Open Live Project](https://resilient-liger-d54482.netlify.app)
+🔗 **Live Demo:** [Open Live Project](https://nandithachintalagattu-arch.github.io/User-Directory-Dashboard/)
 
 ---
 
